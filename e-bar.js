@@ -3,7 +3,7 @@ const container =  document.querySelector("#recent-breweries-list")
 //const resultsContainer = document.querySelector("#brewery-list")
 const resultsContainer = document.querySelector("#grid")
 
-// document.addEventListener('DOMContentLoaded', fetchBreweries)
+document.addEventListener('DOMContentLoaded', fetchBreweries)
 
 
 function fetchBreweries(){
