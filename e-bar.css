@@ -28,12 +28,12 @@ body{
         margin-top: 30px;
     }
 
-    /* #top-joints{
+    #top-joints{
         font-style: italic;
         color: brown;
     }
     
-    #recent-breweries-list{
+    /* #recent-breweries-list{
         display: flex;
         color: aliceblue;
     }
