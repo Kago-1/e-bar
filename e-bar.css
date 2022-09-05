@@ -33,10 +33,10 @@ body{
         color: brown;
     }
     
-    /* /* #recent-breweries-list{
+    #recent-breweries-list{
         display: flex;
         color: aliceblue;
-    } */
+    }
 
     #grid{
         color: aliceblue;
