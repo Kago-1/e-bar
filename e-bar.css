@@ -1,0 +1,46 @@
+body{
+    max-width: 350px;
+    /* background-color: rosybrown; */
+    /* background-image:url("https://cdn.pixabay.com/photo/2013/10/23/09/04/beer-199650_960_720.jpg"); */
+    background-image:url("https://cdn.pixabay.com/photo/2013/10/23/09/04/beer-199650_960_720.jpg");
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    h1{
+        font-size: xx-large;
+        color: brown;
+        margin-bottom: -15px;
+        padding-top: 50px;
+       
+    }
+    
+    #call{
+        color: aliceblue;
+        font-style: italic;
+        padding-left: 50px;
+    }
+    
+    /* #brewery-search-form{
+        padding-left: 60px;
+        font-size:larger;
+        margin-top: 30px;
+    }
+
+    #top-joints{
+        font-style: italic;
+        color: brown;
+    }
+    
+    #recent-breweries-list{
+        display: flex;
+        color: aliceblue;
+    }
+
+    #grid{
+        color: aliceblue;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding-left: 250px;
+    } */
