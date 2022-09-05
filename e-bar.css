@@ -33,14 +33,14 @@ body{
         color: brown;
     }
     
-    /* #recent-breweries-list{
+    /* /* #recent-breweries-list{
         display: flex;
         color: aliceblue;
-    }
+    } */
 
     #grid{
         color: aliceblue;
         display: grid;
         grid-template-columns: 1fr 1fr;
         padding-left: 250px;
-    } */
+    } 
